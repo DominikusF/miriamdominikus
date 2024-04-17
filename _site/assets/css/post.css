@@ -17,7 +17,7 @@
 } */
 
 #article .article-content {
-  margin-top: 3rem;
+  margin-top: 0;
 }
 
 #article .article-content * {
@@ -34,8 +34,8 @@
   padding: 0;
 }
 .article-content a {
-  color: var(--dm-contrast);
-  border-bottom: 3px solid var(--dm-contrast);
+  color: var(--text-dm-primary);
+  border-bottom: 3px solid var(--text-dm-primary);
 }
 .article-content h1 {
   font-size: 2rem;
@@ -55,13 +55,17 @@
 .article-content h6 {
   font-size: 1rem;
 }
-.article-content h1,
+
+.article-content h1 {
+    margin: 2.5rem 0 0.3rem;
+    text-transform: uppercase;
+}
 .article-content h2,
 .article-content h3,
 .article-content h4,
 .article-content h5,
 .article-content h6 {
-  margin: 2.5rem 0 1.5rem;
+  margin: 0.5rem 0 0.1rem;
   /* font-weight: bolder !important; */
 }
 .article-content blockquote {

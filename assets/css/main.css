@@ -2,8 +2,9 @@
 
 :root {
   /* Themes */
-  --text-dm-site-title: #e9e6be;
+  --text-dm-site-title: #d0c9be;
   --text-dm-primary: #d0c9be;
+  --text-dm-tertiary: #b0a38c;
   --text-dm-secondary: #ffffff;
   --dm-contrast: #568d5e;
   --bg-dm-primary: #355e3b;
@@ -39,7 +40,7 @@ body {
 main {
   margin: 0 auto;
   max-width: 650px;
-  padding: 3rem 0;
+  padding: 3rem 0 5rem;
 }
 
 main.blogfeed * {
@@ -178,4 +179,76 @@ footer {
   border-radius: var(--border-radius) var(--border-radius) 0 0;
   font-size: 1.2rem;
   color: var(--bg-dm-secondary);
+}
+
+
+/* NAV */
+nav {
+  position: fixed;
+  bottom: 1rem;
+  left: calc(50vw - 10rem);
+  width: 20rem;
+}
+
+nav ul {
+  background: var(--text-dm-primary);
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  width: 100%;
+}
+
+nav li {
+  color: var(--bg-dm-primary);
+  background: var(--text-dm-primary);
+  display: block;
+  float: left;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  transition-duration: 0.5s;
+  width: 100%;
+  padding-block: 0.8rem;
+}
+  
+nav li a {
+  color: var(--bg-dm-primary);
+}
+
+nav li:hover,
+nav li:focus-within {
+  background: var(--text-dm-tertiary);
+  cursor: pointer;
+}
+
+nav li:hover a,
+nav li:focus-within a {
+  outline: none;
+   
+}
+
+nav ul li ul {
+  background: var(--text-dm-primary);
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  position: absolute;
+  transition: all 0.5s ease;
+  left: 0;
+  bottom: 100%;
+  display: none;
+}
+
+nav ul li:hover > ul,
+nav ul li:focus-within > ul,
+nav ul li ul:hover,
+nav ul li ul:focus {
+   visibility: visible;
+   opacity: 1;
+   display: block;
+}
+
+nav ul li ul li {
+  clear: both;
+  width: 100%;
 }
