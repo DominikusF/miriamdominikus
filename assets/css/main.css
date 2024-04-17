@@ -184,6 +184,12 @@ footer {
 
 
 /* NAV */
+@media screen and (max-width: 750px) {
+    nav {
+        display: none;
+    }
+}
+
 nav {
   position: fixed;
   bottom: 1rem;
