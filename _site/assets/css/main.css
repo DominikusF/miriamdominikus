@@ -40,7 +40,7 @@ body {
 main {
   margin: 0 auto;
   max-width: 650px;
-  padding: 3rem 0 5rem;
+  padding: 3rem 0 10rem;
 }
 
 main.blogfeed * {

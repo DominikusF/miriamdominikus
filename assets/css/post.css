@@ -59,6 +59,7 @@
 .article-content h1 {
     margin: 2.5rem 0 0.3rem;
     text-transform: uppercase;
+    line-height: normal;
 }
 .article-content h2,
 .article-content h3,
@@ -66,6 +67,7 @@
 .article-content h5,
 .article-content h6 {
   margin: 0.5rem 0 0.1rem;
+  line-height: normal;
   /* font-weight: bolder !important; */
 }
 .article-content blockquote {
