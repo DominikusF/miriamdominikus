@@ -216,12 +216,14 @@ nav li a {
   color: var(--bg-dm-primary);
 }
 
-nav li:hover {
+nav li:hover,
+nav li:focus-within {
   background: var(--text-dm-tertiary);
   cursor: pointer;
 }
 
-nav li:hover a {
+nav li:hover a,
+nav li:focus-within a {
   outline: none;
    
 }
@@ -238,8 +240,10 @@ nav ul li ul {
   display: none;
 }
 
-nav ul li:hover > ul
-nav ul li ul:hover {
+nav ul li:hover > ul,
+nav ul li:focus-within > ul,
+nav ul li ul:hover,
+nav ul li ul:focus {
    visibility: visible;
    opacity: 1;
    display: block;
