@@ -53,7 +53,6 @@ Wenn du die _freie Zeremonie_ mit einem Beitrag bereichern möchtest, melde dich
 
 Weitere Beiträge in egal welcher Form während dem Essen oder der Feier melde dich bei Miriams Trauzeugin _Lea_. (Die Handynummer findest du in der Einladung)
 
-# Dresscode
 <h1 id="dresscode">Dresscode</h1>
 Es gibt einfach zu wenige Anlässe sich _richtig schick_ zu machen. Deshalb wünschen wir uns dich so _feierlich wie möglich und es die Temperaturen im Juli zulassen_.
 
