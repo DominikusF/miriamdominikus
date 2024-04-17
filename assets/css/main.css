@@ -49,6 +49,7 @@ main.blogfeed * {
 
 header {
   padding: 2rem 0 4rem 0;
+  text-align: right;
 }
 
 header .site-title {

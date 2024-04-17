@@ -34,16 +34,20 @@ Das Röhm — Eingang Tor 2
 Parkplatz Röhm P2
 [Weilerstraße 31, 73614 Schorndorf](https://maps.app.goo.gl/TfSSNpUWWHLBR9ZZ7)
 
-## Übernachtungen
+
+<h1 id="ubernachtung">Übernachtung</h1>
+
+## Im Hotel
 Hotel Reich an der Rems
 [Stuttgarter Str. 77, 73614 Schorndorf](https://maps.app.goo.gl/eSFm64yzwBSQ5BZB8)
 
 [07181 98558-0](tel:07181 98558-0)
 
-Ein Zimmerkontingent ist bis zum 06/06/2024 reserviert. Ruft einfach dort an und bucht euch ein Zimmer. Betreff "Hochzeit Gückel + Frank". Check In ist ab 14:00 möglich und Frühstück ist im Preis inklusive.
+Ein Zimmerkontingent ist bis zum 06/06/2024 reserviert. Ruft einfach dort an und bucht euch ein Zimmer. Betreff "Hochzeit Gückel + Frank". Check In ist ab 14 Uhr möglich.
 Euch steht natürlich frei auch was anderes zu suchen. :)
 
-Im eigenen Bully auf dem Parkplatz vom Röhm kann man auch schlafen.
+## Auf dem Parkplatz
+Ihr könnt auch im eigenen Bully auf dem Parkplatz vom Röhm schlafen.
 
 
 <h1 id="beitrage">Beiträge zur Zeremonie + Feier</h1>

@@ -1,12 +1,11 @@
-title: Miriam und Dominikus heiraten
+title: Miriam + Dominikus heiraten
 markdown: kramdown
 # url: ""
 # baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Dominikus + Miriam
 
 plugins:
   - jemoji
