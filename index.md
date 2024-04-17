@@ -19,7 +19,7 @@ willkommen (so viele in den Raum passen). Im Anschluss stoßen wir vor Ort mit _
 
 _Ab 15 Uhr_ stehen die Tore _zum Röhm_ offen. Komm dazu, sobald du möchtest: Mit Spiel, Spaß, Spannung und Getränken laden wir zu einem entspannten Nachmittag. Gegen _19 Uhr_ gibt es _lecker Essen_. Die _freie Zeremonie_ startet mit dem _Sonnenuntergang_. Tanz mit uns und feiere, solange deine Füße dich tragen. Gegen 24 Uhr gibt es zur Stärkung einen _Mitternachtssnack_.
 
-Wer noch noch wach ist oder eine extra Runde mit uns drehen möchte, ist herzlich eingeladen am _Sonntag morgen_ beim _Aufräumen_ zu helfen. Alles unter den Motto _Leinen los, Jogginghos_.
+Wer noch wach ist oder eine extra Runde mit uns drehen möchte, ist herzlich eingeladen am _Sonntag morgen_ beim _Aufräumen_ zu helfen. Alles unter den Motto _Leinen los, Jogginghos_.
 
 <h1 id="locations">Locations</h1>
 
