@@ -59,8 +59,11 @@ Weitere Beiträge in egal welcher Form während dem Essen oder der Feier melde d
 Es gibt einfach zu wenige Anlässe sich _richtig schick_ zu machen. Deshalb wünschen wir uns dich so _feierlich wie möglich und es die Temperaturen im Juli zulassen_.
 
 <h1 id="geschenke">Geschenke</h1>
-Da wir quasi von Anfang an zusammenwohnen, hat unser Hausstand alles wichtigste wie Gläser, Teller oder Besteck. Silbernes und Kristallgläser sind uns auch zu aufwändig zum polieren. Wir haben also eine “No polier policy” bei Geschenken. _Außer Goldbarren, die sind ok_.
+
+Da wir quasi von Anfang an zusammenwohnen, hat unser Hausstand alles wichtige wie Gläser, Teller oder Besteck. Silberbesteck und Kristallgläser sind uns zu aufwändig zum polieren. Wir haben also eine _“No polier policy”_ bei Geschenken. _Außer Goldbarren, die sind ok_.
     
-Hauptsächlich freuen wir uns wenn du kommst und deine _Energie und gute Laune_ mit uns teilst. Du bist ein Teil des Tages, an den wir uns noch lange erinnern wollen. Wenn du Lust und Laune hast bring dich also gerne in die _Abendgestaltung_ mit ein. (Siehe “Beiträge zur Zeremonie und Feier”)
+Hauptsächlich freuen wir uns wenn du kommst und deine _Energie und gute Laune_ mit uns teilst. Du bist ein Teil des Tages, an den wir uns noch lange erinnern wollen.
     
-Wenn ihr uns trotzdem was materielles schenken wollt, freuen wir und über einen _Beitrag zur Flitterwochenkasse_.
+Wenn ihr uns trotzdem etwas Materielles schenken wollt, und keine Idee habt was, dann freuen wir uns über einen _Beitrag zur Flitterwochenkasse_.
+
+# Wir freuen uns auf den Tag mit euch
